@@ -8,8 +8,6 @@ venv/
 node_modules/
 
 # Environment files (do not commit secrets)
-.env
-.env.*
 
 # Local scripts (do not commit)
 check_all_apis_seeded.py
