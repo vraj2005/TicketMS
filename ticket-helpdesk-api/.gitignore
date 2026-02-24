@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Environment files (do not commit secrets)
+.env
+.env.*
+
+# Local scripts (do not commit)
+check_all_apis_seeded.py
+
+# Logs
+*.log
+
